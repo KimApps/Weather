@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="close_app">Do you want to close the app?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="server_error">Server error</string>
+    <string name="no_internet_connection_error">No internet connection</string>
+    <string name="not_all_required">Not all required fields are filled</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="proceed">Proceed</string>
+    <string name="save">Save</string>
+    <string name="default_error">Sorry, something went wrong</string>
+    <string name="profile">Profile</string>
+    <string name="password">Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+    <string name="dot">•</string>
+    <string name="weather_in_other_cities">Weather in other cities</string>
+    <string name="enter_city_names">Enter city names</string>
+    <string name="go">GO</string>
+    <string name="w_speed">w/speed</string>
+</resources>
